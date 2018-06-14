@@ -1,0 +1,27 @@
+body{
+    font-family:sans-serif;
+}
+#tilte{
+    text-decoration: underline;
+    text-align: center;
+}
+nav{
+widows: 200px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style:none;
+    line-height: 30px;
+    background: #f5f5f0;
+
+}
+.item{
+    border: 1px dotted #f9a91a
+}
+li-first-child a {
+    color:#fff;
+}
+li:first-child a:hover{
+    
+}
