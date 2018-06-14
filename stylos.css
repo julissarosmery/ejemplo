@@ -6,7 +6,7 @@ body{
     text-align: center;
 }
 nav{
-widows: 200px;
+width: 200px;
 }
 ul{
     margin: 0px;
@@ -17,11 +17,14 @@ ul{
 
 }
 .item{
-    border: 1px dotted #f9a91a
+    border: 1px dotted #999;
 }
-li-first-child a {
-    color:#fff;
+li:first-child {
+    background:#f9a91a;
 }
-li:first-child a:hover{
-    
+li:first-child a{
+color:#fff;
+}
+/*li:first-child a:hover{
+
 }
